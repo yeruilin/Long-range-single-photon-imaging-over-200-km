@@ -1,8 +1,8 @@
 # Single-photon imaging over 200 km
  
 This demo includes data and MATLAB codes used in the paper "Single-photon imaging over 200 km"
-by Zheng-Ping Li, Jun-Tian Ye, Xin Huang, Peng-Yu Jiang, Yuan Cao, Yu Hong, Chao Yu, Jun Zhang, Qiang Zhang, Cheng-Zhi Peng, Feihu Xu, and Jian-Wei Pan
-Under review
+by Zheng-Ping Li, Jun-Tian Ye, Xin Huang, Peng-Yu Jiang, Yuan Cao, Yu Hong, Chao Yu, Jun Zhang, Qiang Zhang, Cheng-Zhi Peng, Feihu Xu, and Jian-Wei Pan 
+(Under review).
 
 Corresponding author: feihuxu@ustc.edu.cn.
 
