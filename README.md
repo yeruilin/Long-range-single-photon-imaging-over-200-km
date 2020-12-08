@@ -31,12 +31,5 @@ We use the following three photon-efficient algorithms for reconstruction:
 --The related code can be found at https://github.com/quantum-inspired-lidar/long-range-photon-efficient-imaging
 
 
-Instructions for the experimental data:
-
-- "data_night.mat", it contains raw data for 5 postures captured at night. 
-- "data_daylight.mat", it contains raw data for 2 postures captured in the daylight. 
-   For each posture, the ToF information of the arrival photons (unit: ps) is recorded. 
-
-
 
 
