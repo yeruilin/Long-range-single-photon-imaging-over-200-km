@@ -27,7 +27,7 @@ We use the following three photon-efficient algorithms for reconstruction:
 - Rapp Joshua, et al., "A few photons among many: Unmixing signal and noise for photon-efficient active imaging.", IEEE Transactions on Computational Imaging 3, 445 (2017).
 --The related code can be found at https://codeocean.com/capsule/6269424/tree/v1.
 
-- Li, Zheng-Ping, et al., "Single-photon computational 3D imaging at 45 km.", Photonics Research 8, 1532 (2020).
+- Li Zheng-Ping, et al., "Single-photon computational 3D imaging at 45 km.", Photonics Research 8, 1532 (2020).
 --The related code can be found at https://github.com/quantum-inspired-lidar/long-range-photon-efficient-imaging
 
 
